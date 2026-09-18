@@ -76,9 +76,9 @@
 
 本人已亲自重新运行上述全部程序并核对结果（提交前在此打勾并署名）：
 
-- [ ] compound_min.py
-- [ ] compound_input.py（含 4 种非法输入）
-- [ ] compound_compare.py
-- [ ] compound_monthly.py
+- [√ ] compound_min.py
+- [√ ] compound_input.py（含 4 种非法输入）
+- [√ ] compound_compare.py
+- [√ ] compound_monthly.py
 
-姓名：__________　日期：__________
+姓名：__龙羲玥________　日期：__2026.9.18________
